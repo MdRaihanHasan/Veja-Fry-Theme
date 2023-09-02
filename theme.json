@@ -1,0 +1,8 @@
+{
+    "name": "DarkKnight",
+    "version": "1.0",
+    "description": "DarkKnight for phpMyAdmin",
+    "author": "Raihan",
+    "url": "https://mdraihanhasan.info/",
+    "supports": ["5.1", "5.2"]
+}
